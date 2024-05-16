@@ -1,0 +1,4 @@
+prefix,weight
+acc,0.3
+acc_diff,0.4
+acc_ma,0.3
